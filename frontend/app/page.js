@@ -8,7 +8,8 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 
 export default function Home() {
-  axios.defaults.baseURL = "http://localhost:8001"
+  axios.defaults.baseURL = "https://shoe-store-backend-on02.onrender.com"
+  // axios.defaults.baseURL = "http://localhost:8001"
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
 
