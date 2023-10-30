@@ -3,7 +3,7 @@ const bcrypt = require("bcrypt");
 const { v4: uuidv4 } = require("uuid");
 const jwt = require("jsonwebtoken");
 const gravatar = require("gravatar");
-const WishlistList = require("../models/wishList");
+const WishlistList = require("../models/wishlist");
 const Cart = require("../models/cart");
 
 const registerController = async (req, res) => {
