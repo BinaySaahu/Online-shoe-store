@@ -1,7 +1,7 @@
 const express = require("express");
 
 const router = express.Router();
-const wishlistController = require("../contollers/wishlist")
+const wishlistController = require("../contollers/wishList")
 
 const auth = require('../middleware/validator')
 

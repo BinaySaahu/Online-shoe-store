@@ -1,4 +1,4 @@
-const Wishlist = require("../models/wishList");
+const Wishlist = require("../models/wishlist");
 
 const AddToWishlist = async (req, res) => {
   const {userId} = res.locals.userData
