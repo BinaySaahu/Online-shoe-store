@@ -13,8 +13,7 @@ const nextConfig = {
           },
         ],
       },
-      distDir: 'app/.next',
-      basePath: '/frontend'
+      distDir: 'app/.next'
 }
 
 module.exports = nextConfig
