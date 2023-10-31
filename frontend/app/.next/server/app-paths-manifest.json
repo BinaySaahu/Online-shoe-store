@@ -1,0 +1,12 @@
+{
+  "/cart/page": "app/cart/page.js",
+  "/category/[slug]/page": "app/category/[slug]/page.js",
+  "/failed/page": "app/failed/page.js",
+  "/login/page": "app/login/page.js",
+  "/orders/page": "app/orders/page.js",
+  "/page": "app/page.js",
+  "/product/[slug]/page": "app/product/[slug]/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/success/page": "app/success/page.js",
+  "/wishlist/page": "app/wishlist/page.js"
+}

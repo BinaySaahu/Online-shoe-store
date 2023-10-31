@@ -1,0 +1,12 @@
+{
+  "/cart/page": "/cart",
+  "/category/[slug]/page": "/category/[slug]",
+  "/failed/page": "/failed",
+  "/login/page": "/login",
+  "/orders/page": "/orders",
+  "/page": "/",
+  "/product/[slug]/page": "/product/[slug]",
+  "/signup/page": "/signup",
+  "/success/page": "/success",
+  "/wishlist/page": "/wishlist"
+}
