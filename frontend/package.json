@@ -29,6 +29,7 @@
     "swr": "^2.1.0"
   },
   "devDependencies": {
+    "@types/node": "^20.8.9",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.27",
     "tailwindcss": "^3.3.3"
