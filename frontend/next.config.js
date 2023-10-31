@@ -13,6 +13,7 @@ const nextConfig = {
           },
         ],
       },
+      basePath: '/frontend',
 }
 
 module.exports = nextConfig
